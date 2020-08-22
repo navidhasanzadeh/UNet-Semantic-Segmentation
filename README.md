@@ -1,7 +1,7 @@
 # CamVid Dataset Semantic Segmentation using UNet
 
 In this project, a U-Net deep neural network is implemented using PyTorch to segment CamVid dataset images.
-![input, target and output for a image in the test dataset](imgs/sample_result.jpg)<!-- .element height="50%" width="50%" -->
+![input, target and output for a image in the test dataset](imgs/sample_result.jpg)
 
 
 # Dataset
