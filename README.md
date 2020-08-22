@@ -5,7 +5,7 @@ In this project, a U-Net deep neural network is implemented using PyTorch to seg
 
 
 # Dataset
-Please download the dataset from here:
+Please download CamVid dataset from here:
 http://mi.eng.cam.ac.uk/research/projects/VideoRec/CamVid/
 
 ## Requirements
@@ -18,5 +18,6 @@ Note : Use Python 3.6 or newer
 
 ---
 U-Net paper is by Olaf Ronneberger, Philipp Fischer, Thomas Brox: [https://arxiv.org/abs/1505.04597](https://arxiv.org/abs/1505.04597)
-U-Net network architecture:
+
+# U-Net network architecture
 ![network architecture](https://i.imgur.com/jeDVpqF.png)
